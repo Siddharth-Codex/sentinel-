@@ -1,0 +1,18 @@
+{
+  "users": {
+    "usr_a5d24d1c87a59e81d02c87f8": {
+      "uid": "usr_a5d24d1c87a59e81d02c87f8",
+      "email": "analyst@sentinelx.sec",
+      "displayName": "Senior SOC Analyst",
+      "passwordSalt": "cbacfccb845a16de0b0fc96a4e0432c083568cce6dcaa4e2c9ecaa0f12635df7",
+      "passwordHash": "497c14cc1f309dc158ca55d830c56e78686bab7d0a65cfefe9275eb5eaddafec0f24922edf57fa93260302dfe0f35ace760a8cc6f7f248b7eb92f04142b532a8",
+      "emailVerified": true,
+      "createdAt": "2026-10-16T23:31:58.188Z",
+      "lastLoginAt": "2026-10-16T23:32:26.592Z",
+      "role": "Administrator",
+      "provider": "sentinel-sovereign"
+    }
+  },
+  "sessions": {},
+  "resetTokens": {}
+}
